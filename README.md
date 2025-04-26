@@ -1,3 +1,3 @@
 # artml-final
 
-Room Visualizations Inspired By Philippe Parreno Voices!
+Room visualizations inspired by Philippe Parreno Voices!
